@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_share"
+        android:icon="@drawable/ic_baseline_share_24"
+        android:title="Share this image"
+        />
+    <item
+        android:id="@+id/nav_people"
+        android:icon="@drawable/ic_baseline_people_24"
+        android:title="View the people list"
+        />
+    <item
+        android:id="@+id/nav_message"
+        android:icon="@drawable/ic_baseline_message_24"
+        android:title="Message about this image"
+        />
+    <item
+        android:id="@+id/nav_shopping_cart"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        android:title="Purchase the item"
+        />
+    <item
+        android:id="@+id/nav_webcloud"
+        android:icon="@drawable/ic_baseline_wb_cloudy_24"
+        android:title="See related images on cloud"
+        />
+</menu>
